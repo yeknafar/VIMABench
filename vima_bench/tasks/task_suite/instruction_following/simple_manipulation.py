@@ -201,7 +201,7 @@ class SimpleManipulation(BaseTask):
             )
 
         super().__init__(
-            prompt_template="Put the {dragged_obj} into the {base_obj}.",
+            prompt_template="Please Put the {dragged_obj} into the {base_obj}.",
             task_meta=task_meta,
             placeholder_expression=placeholder_expression,
             oracle_max_steps=oracle_max_steps,
