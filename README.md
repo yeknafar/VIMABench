@@ -21,7 +21,7 @@ VIMA-Bench is a newly introduced task suite and benchmark for learning general r
 VIMA-Bench requires Python ≥ 3.9. We have tested on Ubuntu 20.04 and Mac OS X. Installing VIMA-Bench is as simple as:
 
 ```bash
-git clone https://github.com/vimalabs/VimaBench && cd VimaBench
+git clone https://github.com/yeknafar/VimaBench && cd VimaBench
 pip install -e .
 ```
 
